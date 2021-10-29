@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puppeteer": "^10.4.0",
+    "telegraf": "^3.17.3"
+  }
+}
